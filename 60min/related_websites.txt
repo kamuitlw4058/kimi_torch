@@ -1,0 +1,25 @@
+PyTorch入门
+Tensor常用操作以及补充
+https://www.jianshu.com/p/7dbfc7076e5a
+
+PyTorch自动微分
+雅可比矩阵
+https://baike.baidu.com/item/%E9%9B%85%E5%8F%AF%E6%AF%94%E7%9F%A9%E9%98%B5/10753754?fr=aladdin
+data.norm
+https://blog.csdn.net/xiongchengluo1129/article/details/84069312
+
+PyTorch神经网络
+卷积
+https://blog.csdn.net/u013082989/article/details/53673602
+nn.Conv2d & nn.MaxPool2d
+https://pytorch.org/docs/stable/nn.html?highlight=nn%20conv2d#torch.nn.Conv2d
+
+PyTorch图像分类器
+transforms标准化理由
+https://blog.csdn.net/Harpoon_fly/article/details/84987589
+标准化做法
+https://www.jianshu.com/p/8da9b24b2fb6
+transforms.Normalize使用
+https://blog.csdn.net/york1996/article/details/82711593
+
+PyTorch数据并行处理
